@@ -1,0 +1,11 @@
+/.idea
+
+**/*.pyc
+
+/env
+
+**/migrations/*
+
+!**/migrations/__init__.py
+
+/db.sqlite3
